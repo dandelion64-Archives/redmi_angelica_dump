@@ -1,0 +1,19 @@
+## angelica-user 11 RP1A.200720.011 V12.5.4.0.RCRMIXM release-keys
+- Manufacturer: xiaomi
+- Platform: mt6765
+- Codename: angelica
+- Brand: Redmi
+- Flavor: angelica-user
+- Release Version: 11
+- Kernel Version: 4.19.127
+- Id: RP1A.200720.011
+- Incremental: V12.5.4.0.RCRMIXM
+- Tags: release-keys
+- CPU Abilist: armeabi-v7a,armeabi
+- A/B Device: false
+- Locale: en-GB
+- Screen Density: 440
+- Fingerprint: Redmi/angelica_global/angelica:11/RP1A.200720.011/V12.5.4.0.RCRMIXM:user/release-keys
+- OTA version: 
+- Branch: angelica-user-11-RP1A.200720.011-V12.5.4.0.RCRMIXM-release-keys
+- Repo: redmi_angelica_dump
